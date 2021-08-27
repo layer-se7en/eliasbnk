@@ -1,7 +1,7 @@
 # Hi there 👋
 
-## My name is Elias Babenko,
-## I'm Christian, Student, Teacher!
+# My name is Elias Babenko,
+# I'm Christian, Student, Teacher!
 
 ### - 🔭 I’m currently working on mastering ReactJS and JavaScript.
 ### - 🌱 I’m currently learning TypeScript.
