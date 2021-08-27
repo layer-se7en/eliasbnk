@@ -3,10 +3,10 @@
 ## My name is Elias Babenko,
 ## I'm Christian, Student, Teacher!
 
-- 🔭 I’m currently working on mastering ReactJS and JavaScript.
-- 🌱 I’m currently learning TypeScript.
-- 🤔 I’m looking for help with finding a JR/Intern position as a front end ReactJS developer.
-- 📫 How to reach me: <a href="mailto:babenko.elias@gmail.com" target="_blank" rel="noopener noreferrer">babenko.elias@gmail.com</a>
+### - 🔭 I’m currently working on mastering ReactJS and JavaScript.
+### - 🌱 I’m currently learning TypeScript.
+### - 🤔 I’m looking for help with finding a JR/Intern position as a front end ReactJS developer.
+### - 📫 How to reach me: <a href="mailto:babenko.elias@gmail.com" target="_blank" rel="noopener noreferrer">babenko.elias@gmail.com</a>
 
 ## My Progress:
 
