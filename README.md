@@ -10,7 +10,7 @@
 
 ## My Progress:
 
-<img align="left" alt="eliasbnk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eliasbnk&show_icons=true&hide_border=true"/>
+<img align="left" alt="eliasbnk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eliasbnk&show_icons=true&hide_border=true&count_private=true"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasbnk&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
