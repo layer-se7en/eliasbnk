@@ -10,9 +10,9 @@
 
 ## My Progress:
 
-<img align="left" alt="eliasbnk's Github Stats" src="https://github-readme-stats-eliasbnk.vercel.app/api?username=eliasbnk&theme=react&show_icons=true&hide_border=true&count_private=true"/>
+<img align="left" alt="eliasbnk's Github Stats" src="https://github-readme-stats-eliasbnk.vercel.app/api?username=eliasbnk&theme=github_dark&show_icons=true&hide_border=true&count_private=true"/>
 
-[![Top Langs](https://github-readme-stats-eliasbnk.vercel.app/api/top-langs/?username=eliasbnk&theme=react&layout=compact&hide_border=true)](https://github.com/eliasbnk/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eliasbnk.vercel.app/api/top-langs/?username=eliasbnk&theme=github_dark&layout=compact&hide_border=true)](https://github.com/eliasbnk/github-readme-stats)
 
 
 
