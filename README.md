@@ -1,6 +1,5 @@
 # Hi there👋 
 ## My name is <strong>Elias Babenko</strong>,
-## I'm Christian ✞, Student 🧑🏻‍💻, Teacher 🧑🏻‍🏫!
 ### - 🔭 I’m currently working on my Associate Degree in Computer Science, and mastering TypeScript and ReactJS.
 ### - 🌱 I’m currently learning NextJS and Web Scraping.
 ### - 🤔 I’m looking for help, with finding a JR/Intern position as a front end ReactJS developer.
